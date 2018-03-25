@@ -1,7 +1,6 @@
-# Receptionist Slack Bot - Virtual Recptionist Slack
+# Receptionist Slack Bot - Virtual Receptionist on Slack
 
-Receptionist Slack Bot is an application that allows companies to help visitors to meet their employees without having to go through a receptionist. 
-
+**Receptionist Slack Bot** is an application that allows companies to help visitors to meet their employees without having to go through a receptionist. 
 
 > Front-End Stack
 >  * React: https://reactjs.org/
